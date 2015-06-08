@@ -1,0 +1,1 @@
+# android-receipt-scan-example
